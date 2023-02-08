@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Appteknow
+ *
+ */
+module HotelManagementSystem {
+}
